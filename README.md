@@ -1,7 +1,7 @@
 # CG/Robotic-paper-note
 Paper reading notes from anabur
 
-# ANABUR/daily-paper-NOTE
+
 
 ## Introduction
 CG/Robotics Learning is a very interesting research area, which has strong connections with machine learning, multi-physics systems, geometry reconstruction, animation(robotics control), physically-based simulation and even numerical optimization.
